@@ -10,6 +10,6 @@ int 21h
 
 ret    
 
-message db "Hello, World!$", 0Dh, 0Ah, "$"
+message db "Hello, World!$"
 
 end start 
